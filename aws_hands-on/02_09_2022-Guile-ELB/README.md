@@ -10,6 +10,8 @@ At the end of the this hands-on training, students will be able to;
 
 - create a target group.
 
+...
+
 - create Application Load Balancer.
 
 - attach target group to ALB.
